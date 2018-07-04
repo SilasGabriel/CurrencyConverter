@@ -36,6 +36,6 @@
     "react-native": "0.52.0",
     "react-native-dropdownalert": "^3.4.0",
     "react-native-extended-stylesheet": "^0.8.1",
-    "react-navigation": "^2.5.5"
+    "react-navigation": "^2.6.0"
   }
 }
